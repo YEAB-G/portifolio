@@ -1,0 +1,108 @@
+{
+  "personal-infos": [
+    { "id": 0, "label": "First Name", "value": "Yeabsira" },
+    { "id": 1, "label": "Last Name", "value": "Girma" },
+    { "id": 2, "label": "Age", "value": 2000 },
+    { "id": 3, "label": "Nationality", "value": "Ethiopian" },
+    { "id": 4, "label": "Phone", "value": "+251953949411" },
+    { "id": 5, "label": "Address", "value": "Addis Ababa" },
+    { "id": 6, "label": "Email", "value": "yeabsiragirma5@gmail.com" },
+    { "id": 7, "label": "Language", "value": "Amharic, English" }
+  ],
+  "counters": [
+    {
+      "id": 0,
+      "number": 3,
+      "firstWord": "Years of",
+      "secondWord": "Experience"
+    },
+    {
+      "id": 1,
+      "number": 10,
+      "firstWord": "Completed",
+      "secondWord": "Projects"
+    },
+    {
+      "id": 2,
+      "number": 5,
+      "firstWord": "Certificates",
+      "secondWord": "Credentials"
+    },
+    { "id": 3, "number": 15, "firstWord": "Awards", "secondWord": "Won" }
+  ],
+  "skills": [
+    { "id": 0, "name": "HTML", "level": 60 },
+    { "id": 1, "name": "CSS", "level": 75 },
+    { "id": 2, "name": "JavaScript", "level": 80 },
+    { "id": 3, "name": "Typescript", "level": 50 },
+    { "id": 4, "name": "React", "level": 80 },
+    { "id": 5, "name": "Angular", "level": 80 },
+    { "id": 6, "name": "MUI", "level": 90 },
+    { "id": 7, "name": "Bootstrap", "level": 70 },
+    { "id": 8, "name": "SCSS", "level": 80 },
+    { "id": 9, "name": "Tailwind", "level": 90 },
+    { "id": 10, "name": "GitHub", "level": 70 },
+    { "id": 11, "name": "Firebase", "level": 80 }
+  ],
+  "experience": [
+    {
+      "id": 0,
+      "company": "Hello Cash",
+      "title": "SALES AND ON-BOARDING SPECIALIST",
+      "description": "Accomplished Sales Specialist, adept at driving revenue, onboarding clients, and surpassing targets. Ready to contribute to your team's success."
+    },
+    {
+      "id": 1,
+      "company": "Marakisoft Technologies",
+      "title": "FRONT END DEVELOPER",
+      "description": "Front End Developer experienced in crafting user-friendly experiences and building cutting-edge web applications."
+    }
+  ],
+  "education": [
+    {
+      "id": 0,
+      "institution": "Adama Science and Technology University",
+      "degree": "COMPUTER SCIENCE AND ENGINEERING DEGREE",
+      "description": "Deeply passionate about technology and focused on innovative problem-solving."
+    },
+    {
+      "id": 1,
+      "institution": "The ALX Holberton Software Engineering",
+      "degree": "SOFTWARE ENGINEERING",
+      "description": "Enthusiastic Software Engineering aspirant, continuously learning to create impactful solutions."
+    }
+  ],
+  "projects": [
+    
+  
+    {
+      "id": 0,
+      "name": "Simple Notes",
+      "languages": ["React", "MUI"],
+      "url":"https://my-notes-murex.vercel.app/"
+    },
+    
+    {
+      "id": 1,
+      "name": "Quizzical",
+      "languages": ["React", "Tailwind"],
+      "url": "https://github.com/YEAB-G/Quiz-App.git"
+    }
+   
+    
+  ],
+  "address": {
+    "line1": "Saris Abo or Bolebulbula",
+    "line2": "ADDIS ABABA, ETHIOPIA"
+    
+  },
+  "contact": {
+    "email": "yeabsiragirma5@gmail.com",
+    "phone": "+251953949411"
+  },
+  "social": {
+    "github": "https://github.com/YEAB-G",
+    "LinkedIn" : "https://www.linkedin.com/in/yeabsira-girma-09650a245/",
+    "telegram": "https://t.me/Yeab_yg"
+  }
+}
